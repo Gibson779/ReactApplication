@@ -8,6 +8,7 @@ export default function Main() {
             <li>Was originally created by Adam Walke</li>
             <li>Has well over 100k stars on GitHub</li>
             <li>Is maintained by Meta</li>
+            <li>Is maintained by Meta</li>
             <li>React powers thousands of enterprise apps including mobile apps</li>
             </ul>
         </main>
